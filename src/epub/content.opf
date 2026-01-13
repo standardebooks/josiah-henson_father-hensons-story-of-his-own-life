@@ -52,7 +52,7 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2009120387</meta>
 		<meta property="se:subject">Autobiography</meta>
-		<dc:description id="description">Josiah Henson’s autobiography recounting his life in slavery and his escape to freedom in Canada.</dc:description>
+		<dc:description id="description">Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Born into slavery in Maryland in 1789, &lt;a href="https://standardebooks.org/ebooks/josiah-henson"&gt;Josiah Henson&lt;/a&gt; endured brutal treatment and family separations before eventually escaping to Canada with his wife and children in 1830. His remarkable story of survival, faith, and ultimate freedom became one of the most influential slave narratives of the 19th century.&lt;/p&gt;
 			&lt;p&gt;Henson’s narrative provides a firsthand account of the horrors of slavery, including the violent punishment of his father, the heart-wrenching sale of fellow enslaved people, and his own struggles with loyalty to his master versus his desire for freedom. After gaining his freedom, Henson became a Methodist preacher and community leader in Canada, helping other escaped slaves build new lives and conducting dangerous missions back to the South to guide others to freedom via the Underground Railroad.&lt;/p&gt;
@@ -60,14 +60,14 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/49129</dc:source>
-		<dc:source>https://archive.org/details/fatherhensonssto49129gut/49129-h</dc:source>
+		<dc:source>https://archive.org/details/fatherhensonsst00hens</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/josiah-henson_father-hensons-story-of-his-own-life_scott-voyles</meta>
 		<dc:creator id="author">Josiah Henson</dc:creator>
 		<meta property="file-as" refines="#author">Henson, Josiah</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Josiah_Henson</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/rwo/agents/n50036579</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50036579</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Charles T. Webber</dc:contributor>
 		<meta property="file-as" refines="#artist">Webber, Charles</meta>
