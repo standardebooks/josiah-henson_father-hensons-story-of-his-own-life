@@ -13,7 +13,7 @@
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="illustrator">John P. Jewett and Company</dc:contributor>
 		<meta property="role" refines="illustrator" scheme="marc:relators">ill</meta>
-		<meta property="display-seq">0</meta>
+		<meta property="display-seq" refines="#illustrator">0</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
 		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
@@ -76,7 +76,6 @@
 		<meta property="file-as" refines="#artist">Webber, Charles</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Charles_T._Webber</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2009092845</meta>
-		<meta property="display-seq" refines="#artist">0</meta>
 		<dc:contributor id="writer-of-preface">Harriet Beecher Stowe</dc:contributor>
 		<meta property="file-as" refines="#writer-of-preface">Stowe, Harriet Beecher</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-preface">https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe</meta>
@@ -106,7 +105,6 @@
 		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia/</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
-		<meta property="se:production-notes">The original source does not credit an illustrator for the included illustration. Per editorial instruction, the original publisher is credited as illustrator for this image.</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
