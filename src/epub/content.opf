@@ -55,7 +55,7 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2009120387</meta>
 		<meta property="schema:genre">Autobiography</meta>
-		<dc:abstract>Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.</dc:abstract>
+		<meta property="schema:abstract">Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.</meta>
 		<dc:description>
 			&lt;p&gt;Born into slavery in Maryland in 1789, &lt;a href="https://standardebooks.org/ebooks/josiah-henson"&gt;Josiah Henson&lt;/a&gt; was separated from his family and endured brutal treatment before eventually escaping to Canada with his wife and children in 1830. His remarkable story of survival, faith, and ultimate freedom became one of the most influential slave narratives of the 19th century.&lt;/p&gt;
 			&lt;p&gt;Henson’s narrative is a firsthand account of the horrors of slavery, including the violent punishment of his father, the heart-wrenching sale of fellow enslaved people, and his own struggles with loyalty to his master versus his desire for freedom. After gaining his freedom, Henson became a Methodist preacher and community leader in Canada, helping other escaped slaves build new lives and conducting dangerous missions back to the South to guide others to freedom via the Underground Railroad.&lt;/p&gt;
