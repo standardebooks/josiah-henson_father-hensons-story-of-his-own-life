@@ -33,13 +33,13 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Father Henson’s Story of His Own Life</dc:title>
 		<meta property="file-as" refines="#title">Father Henson’s Story of His Own Life</meta>
-		<dc:subject id="subject-1">Fugitive slaves -- United States -- Biography</dc:subject>
-		<dc:subject id="subject-2">African Americans -- Biography</dc:subject>
-		<dc:subject id="subject-3">Enslaved persons -- United States -- Biography</dc:subject>
+		<dc:subject id="subject-1">Fugitive slaves--United States--Biography</dc:subject>
+		<dc:subject id="subject-2">African Americans--Biography</dc:subject>
+		<dc:subject id="subject-3">Enslaved persons--United States--Biography</dc:subject>
 		<dc:subject id="subject-4">Henson, Josiah, 1789-1883</dc:subject>
-		<dc:subject id="subject-5">Fugitive slaves -- Canada -- Biography</dc:subject>
-		<dc:subject id="subject-6">Black people -- Canada -- Biography</dc:subject>
-		<dc:subject id="subject-7">Clergy -- Canada -- Biography</dc:subject>
+		<dc:subject id="subject-5">Fugitive slaves--Canada--Biography</dc:subject>
+		<dc:subject id="subject-6">Black people--Canada--Biography</dc:subject>
+		<dc:subject id="subject-7">Clergy--Canada--Biography</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008121315</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
