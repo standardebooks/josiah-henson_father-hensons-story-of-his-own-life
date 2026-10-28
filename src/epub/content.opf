@@ -80,6 +80,7 @@
 		<meta property="file-as" refines="#artist">Webber, Charles</meta>
 		<link href="https://en.wikipedia.org/wiki/Charles_T._Webber" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/no2009092845.html" refines="#artist" rel="schema:sameAs"/>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="writer-of-preface">Harriet Beecher Stowe</dc:contributor>
 		<meta property="file-as" refines="#writer-of-preface">Stowe, Harriet Beecher</meta>
 		<link href="https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe" refines="#writer-of-preface" rel="schema:sameAs"/>
