@@ -13,6 +13,7 @@
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="illustrator">John P. Jewett and Company</dc:contributor>
+		<link href="https://en.wikipedia.org/wiki/John_P._Jewett" refines="#illustrator" rel="schema:sameAs"/>
 		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
