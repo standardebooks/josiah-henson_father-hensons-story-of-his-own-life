@@ -59,24 +59,9 @@ figure img{
 	max-width: 100%;
 }
 
+/* If the image is meant to be on its own page, also include this selector... */
 figure.full-page{
 	break-after: page;
 	break-before: page;
-	break-inside: avoid;
-	margin: 0;
-	max-height: 100vh;
-	text-align: center;
-}
-
-@supports(display: flex){
-	figure.full-page{
-		display: flex;
-		flex-direction: column;
-	}
-
-	figure.full-page img{
-		height: 100vh;
-		object-fit: contain;
-	}
 }
 /* End figure */
